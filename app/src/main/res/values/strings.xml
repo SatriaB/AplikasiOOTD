@@ -2,4 +2,6 @@
     <string name="app_name">AplikasiOOTD</string>
     <string name="startButton">Start</string>
     <string name="colorWhite">#fffff</string>
+    <string name="credit">Power By : <a href="https://github.com/imam932">Imam Nawawi</a> , <a href="https://github.com/SatriaB/"> Satria Bagus</a></string>
+    <string name="sumber">Sumber Gambar : <a href="https://www.bukalapak.com/">Bukalapak</a></string>
 </resources>
