@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AplikasiOOTD</string>
+    <string name="startButton">Start</string>
+    <string name="colorWhite">#fffff</string>
+</resources>
