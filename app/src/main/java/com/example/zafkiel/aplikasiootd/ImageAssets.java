@@ -5,7 +5,7 @@ import java.util.List;
 
 public class ImageAssets {
 
-    //Variabel pengelompokkan dan penyimpanan data untuk badan
+    //Variabel pengelompokkan dan penyimpanan data untuk torso
     private static List<Integer> torso = new ArrayList<Integer>(){{
         add(R.drawable.baju1);
         add(R.drawable.baju2);
@@ -15,7 +15,7 @@ public class ImageAssets {
 
     }};
 
-    //Variabel pengelompokkan dan penyimpanan data untuk kaki
+    //Variabel pengelompokkan dan penyimpanan data untuk legs
     private static List<Integer> legs = new ArrayList<Integer>(){{
         add(R.drawable.celana1);
         add(R.drawable.celana2);

@@ -1,7 +1,6 @@
 package com.example.zafkiel.aplikasiootd;
 
 import android.support.v4.app.Fragment;
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
 import java.util.List;
@@ -109,7 +108,7 @@ public class ClothPartFragment extends Fragment {
         currentState.putInt(LIST_INDEX, mListIndex);
     }
 
-    //setter
+    //setter indeks
     public void setmImageIds(List<Integer> mImageIds) {
         this.mImageIds = mImageIds;
     }
